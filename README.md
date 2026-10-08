@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Chandru Venkatesan 👋
 
-<!--
-**chandru-venkatesan/chandru-venkatesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a Java Full Stack Developer focused on building secure and practical web applications using Java, Spring Boot, Spring Security, REST APIs, MySQL, and modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Security
+* REST APIs
+* JWT Authentication & Authorization
+* Maven
+
+### Database
+
+* MySQL
+* SQL
+* Redis
+* Flyway
+
+### Frontend
+
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript
+* Responsive Web Design
+
+### Tools
+
+* IntelliJ IDEA
+* VS Code
+* Postman
+* Git
+* GitHub
+* Swagger / OpenAPI
+
+## 🚀 Featured Project
+
+### Course Management System
+
+A secure full-stack application being developed using Java, Spring Boot, Spring Security, MySQL, REST APIs, JWT authentication, Redis, Flyway, HTML, CSS, and JavaScript.
+
+The project includes authentication and authorization, role-based access control, course management, API security, caching, database migrations, validation, exception handling, and testing.
+
+## 🤝 Connect With Me
+
+* LinkedIn: [Chandru Venkatesan](https://www.linkedin.com/in/chandru-venkatesan)
+* GitHub: [chandru-venkatesan](https://github.com/chandru-venkatesan)
